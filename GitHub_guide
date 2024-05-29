@@ -1,0 +1,7 @@
+- Skapa repository på GitHub
+- clone SSH till hårddisk
+
+- git add * eller filnamn
+- git commit -m "Log"
+
+- git push origin main
